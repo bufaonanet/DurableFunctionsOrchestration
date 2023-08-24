@@ -1,0 +1,5 @@
+﻿GET http://localhost:7071/api/StartDurableFunctions
+
+Accept: */*
+
+###
